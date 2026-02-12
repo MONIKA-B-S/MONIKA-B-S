@@ -1,21 +1,94 @@
-# 💫 About Me:
-I am currently a student studying in Presidency University on Electronics and Communication Engineering in my 4th year I am interested in embedded system ,PCB designing ,VLSI <br>Also I am currently learning on the embedded systems LINUX bash scripting<br>My main projects are CANSAT a can shaped satellite which was organized by InSpace ISRO and neither competition national innovation for drone application and research <br>I am also very interested in digital electronics 
+# 👩‍💻 Monika B S  
 
+## 🎓 About Me  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CGuZTB8qrH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moni_siddu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monika-b-s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monika.bs2754@gmail.com) 
+I am a Final Year Electronics and Communication Engineering student at **Presidency University, Bangalore** with a strong passion for **Embedded Systems, PCB Design, VLSI, and Digital Electronics**.  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Monika B S&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Monika B S&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Monika B S&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I am deeply interested in building real-world engineering systems that integrate hardware and software — especially in aerospace, robotics, and autonomous systems.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Monika B S&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+Currently, I am strengthening my knowledge in:
+- Embedded Linux  
+- Bash Scripting  
+- Low-level system debugging  
+- Hardware-software integration  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Monika B S&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Key Projects  
+
+### 🛰 CANSAT – Can Sized Satellite  
+Organized under **IN-SPACe (Indian National Space Promotion and Authorization Center)** and **ISRO**  
+
+- Designed and implemented wireless telemetry communication using XBee (2.4 GHz ZigBee).  
+- Developed and tested custom antennas (Dipole / Yagi-Uda).  
+- Performed link budget analysis and real-time data transmission.  
+- Integrated sensors (GPS, IMU, pressure, temperature) with microcontrollers.  
+- Conducted field testing and hardware validation.
+
+---
+
+### 🚁 NIDAR – National Innovation for Drone Application and Research  
+
+- Led development of autonomous drone system for disaster management.  
+- Designed electronics architecture including power distribution and telemetry.  
+- Implemented conveyor-based parcel dropping mechanism (servo-actuated).  
+- Successfully completed real-field mission detecting 6 targets and delivering payloads.  
+- Built two drones with scout + delivery flexibility.
+
+---
+
+## 💡 Technical Interests  
+
+- Embedded Systems Development  
+- PCB Design & Hardware Prototyping  
+- VLSI & Chip Design Fundamentals  
+- Digital Electronics & Logic Design  
+- Robotics & Autonomous Systems  
+- Aerospace Communication Systems  
+
+---
+
+## 🛠 Technical Skills  
+
+### Programming  
+- C  
+- C++  
+- Python  
+- Bash  
+
+### Embedded & Hardware  
+- Arduino  
+- Raspberry Pi  
+- XBee Communication  
+- Sensor Integration (IMU, GPS, Pressure, Environmental Sensors)  
+- Servo & Motor Control  
+- Power System Design  
+
+### Tools & Platforms  
+- Git & GitHub  
+- Linux (Ubuntu, Embedded Linux)  
+- Basic Shell Scripting  
+- CST Studio (Antenna Simulation)  
+
+---
+
+## 🌐 Connect With Me  
+
+- 💼 LinkedIn: https://linkedin.com/in/monika-b-s  
+- 📧 Email: monika.bs2754@gmail.com  
+- 📸 Instagram: https://instagram.com/moni_siddu  
+- 💬 Discord: https://discord.gg/CGuZTB8qrH  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonikaBS&theme=tokyonight&show_icons=true&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonikaBS&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Career Objective  
+
+To contribute to advanced engineering systems in **Embedded Systems, Semiconductor Design, Aerospace, and Robotics**, while continuously expanding my technical depth in hardware and system-level design.
