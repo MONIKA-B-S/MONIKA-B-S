@@ -1,94 +1,83 @@
-# 👩‍💻 Monika B S  
+<h1 align="center">Hi 👋, I'm Monika B S</h1>
+<h3 align="center">Electronics & Communication Engineer | Embedded Systems | VLSI | Aerospace Enthusiast</h3>
 
-## 🎓 About Me  
-
-I am a Final Year Electronics and Communication Engineering student at **Presidency University, Bangalore** with a strong passion for **Embedded Systems, PCB Design, VLSI, and Digital Electronics**.  
-
-I am deeply interested in building real-world engineering systems that integrate hardware and software — especially in aerospace, robotics, and autonomous systems.
-
-Currently, I am strengthening my knowledge in:
-- Embedded Linux  
-- Bash Scripting  
-- Low-level system debugging  
-- Hardware-software integration  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;PCB+Designer;VLSI+Enthusiast;Drone+Systems+Developer;CANSAT+Team+Lead" />
+</p>
 
 ---
 
-## 🚀 Key Projects  
+## 🚀 About Me  
 
-### 🛰 CANSAT – Can Sized Satellite  
-Organized under **IN-SPACe (Indian National Space Promotion and Authorization Center)** and **ISRO**  
-
-- Designed and implemented wireless telemetry communication using XBee (2.4 GHz ZigBee).  
-- Developed and tested custom antennas (Dipole / Yagi-Uda).  
-- Performed link budget analysis and real-time data transmission.  
-- Integrated sensors (GPS, IMU, pressure, temperature) with microcontrollers.  
-- Conducted field testing and hardware validation.
-
----
-
-### 🚁 NIDAR – National Innovation for Drone Application and Research  
-
-- Led development of autonomous drone system for disaster management.  
-- Designed electronics architecture including power distribution and telemetry.  
-- Implemented conveyor-based parcel dropping mechanism (servo-actuated).  
-- Successfully completed real-field mission detecting 6 targets and delivering payloads.  
-- Built two drones with scout + delivery flexibility.
-
----
-
-## 💡 Technical Interests  
-
-- Embedded Systems Development  
-- PCB Design & Hardware Prototyping  
-- VLSI & Chip Design Fundamentals  
-- Digital Electronics & Logic Design  
-- Robotics & Autonomous Systems  
-- Aerospace Communication Systems  
-
----
-
-## 🛠 Technical Skills  
-
-### Programming  
-- C  
-- C++  
-- Python  
-- Bash  
-
-### Embedded & Hardware  
-- Arduino  
-- Raspberry Pi  
-- XBee Communication  
-- Sensor Integration (IMU, GPS, Pressure, Environmental Sensors)  
-- Servo & Motor Control  
-- Power System Design  
-
-### Tools & Platforms  
-- Git & GitHub  
-- Linux (Ubuntu, Embedded Linux)  
-- Basic Shell Scripting  
-- CST Studio (Antenna Simulation)  
+🎓 Final Year ECE Student – Presidency University, Bangalore  
+🛰 Worked on **CANSAT (IN-SPACe / ISRO)**  
+🚁 Core Team – **NIDAR (National Innovation for Drone Application and Research)**  
+💡 Interested in Embedded Linux, PCB Design, Digital Electronics & VLSI  
+🔧 Passionate about building real-world aerospace & robotic systems  
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/monika-b-s  
-- 📧 Email: monika.bs2754@gmail.com  
-- 📸 Instagram: https://instagram.com/moni_siddu  
-- 💬 Discord: https://discord.gg/CGuZTB8qrH  
+<p align="center">
+  <a href="https://linkedin.com/in/monika-b-s"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:monika.bs2754@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://instagram.com/moni_siddu"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://discord.gg/CGuZTB8qrH"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+</p>
 
 ---
 
-## 📈 GitHub Stats  
+## 🛰 Major Projects  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonikaBS&theme=tokyonight&show_icons=true&count_private=true)  
+### 🛰 CANSAT  
+- Designed 2.4GHz XBee telemetry communication  
+- Developed Dipole & Yagi-Uda antennas  
+- Integrated GPS, IMU, pressure & temperature sensors  
+- Performed link budget & real-time transmission testing  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonikaBS&layout=compact&theme=tokyonight)
+### 🚁 NIDAR – Disaster Management Drone  
+- Built 2 autonomous drones (Scout + Delivery mode)  
+- Designed servo-based conveyor dropping mechanism  
+- Delivered 4 payload kits successfully  
+- Completed real-field mission detecting 6 targets  
 
 ---
 
-## 🎯 Career Objective  
+## 💻 Languages & Tools  
 
-To contribute to advanced engineering systems in **Embedded Systems, Semiconductor Design, Aerospace, and Robotics**, while continuously expanding my technical depth in hardware and system-level design.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,arduino,raspberrypi,linux,git,github,nodejs,html,css" />
+</p>
+
+---
+
+## ⚙️ Embedded & Hardware Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matlab,docker,figma" />
+</p>
+
+🔹 XBee Communication  
+🔹 Sensor Fusion  
+🔹 Servo & Motor Control  
+🔹 Power System Design  
+🔹 Embedded Linux Debugging  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonikaBS&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonikaBS&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Career Vision  
+
+To contribute to advanced engineering systems in **Embedded Systems, Semiconductor Design, Aerospace & Robotics**, while continuously mastering hardware-software integration.
