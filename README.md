@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monika B S</h1>
-<h3 align="center">Electronics & Communication Engineer | Embedded Systems | VLSI | Aerospace Enthusiast</h3>
+<h3 align="center">Electronics & Communication Engineer | Embedded Systems | VLSI |</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer;PCB+Designer;VLSI+Enthusiast;Drone+Systems+Developer;CANSAT+Team+Lead" />
@@ -53,10 +53,6 @@
 ---
 
 ## ⚙️ Embedded & Hardware Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,docker,figma" />
-</p>
 
 🔹 XBee Communication  
 🔹 Sensor Fusion  
